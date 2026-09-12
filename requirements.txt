@@ -1,0 +1,14 @@
+# DT514 - Data Exploration
+# ติดตั้งด้วย: pip install -r requirements.txt
+
+# Core: จัดการข้อมูลและคำนวณ
+numpy==2.5.3
+pandas==3.0.5
+
+# Visualization
+matplotlib==3.11.2
+plotly==7.0.0            # Interactive 3D scatter plot (Section 5b)
+statsmodels==0.15.0      # Mosaic plot (Section 10)
+
+# สำหรับรัน .ipynb ใน Jupyter / VS Code
+ipykernel==7.3.0
